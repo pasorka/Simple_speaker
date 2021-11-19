@@ -1,0 +1,4 @@
+gtts==2.2.3
+python-docx==0.8.11
+PyMuPDF==1.19.1
+PyQt5==5.15.6
